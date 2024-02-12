@@ -1,0 +1,21 @@
+.countries{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    column-gap: 20px;
+    row-gap: 30px;
+    color: white;
+  }
+  .country
+  {
+    background-color: var(--darkmodeelement);
+    img{
+      width: 100%;
+      height: 226px;
+    }
+  }
+.filter{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+  

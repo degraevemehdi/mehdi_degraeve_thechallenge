@@ -1,0 +1,13 @@
+.detail-item{
+    display: flex;
+    justify-content: center;
+}
+.column2{
+    margin-top: 50px;
+}
+.back-btn button{
+    margin-left: 140px;
+}
+border{
+    margin-top: 77px;
+}
